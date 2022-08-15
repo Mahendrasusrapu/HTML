@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+//version of the html page
+<html lang="en"> // set the language to the html page
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> // fix the view port to the page
+    <title>INDIAN FLAG</title> // title of the project
+</head>
+<body>
+//divied the page into 3 parts for three colors
+    <div style="background-color: orange; width : 100%; height : 150px"></div> //color filled with the orange and take full width fixed the height
+    <div style="background-color: white; width : 100% ; height : 150px">
+    <img style="display: block; margin-left: auto; margin-right: auto;"src="p.png" alt="ashoka chakra" height="155px">
+    </div>
+    <div style="background-color: green; width : 100% ;height:  150px;"></div>
+</body>
+</html>
